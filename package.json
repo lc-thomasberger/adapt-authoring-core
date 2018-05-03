@@ -3,7 +3,14 @@
   "version": "0.0.1",
   "description": "Core module for the Adapt authoring tool",
   "main": "index.js",
+  "scripts": {
+    "doc": "./node_modules/.bin/esdoc"
+  },
   "dependencies": {
     "adapt-authoring-modules": "git+https://github.com/taylortom/adapt-authoring-modules.git"
+  },
+  "devDependencies": {
+    "esdoc": "1.1.0",
+    "esdoc-standard-plugin": "1.0.0"
   }
 }
