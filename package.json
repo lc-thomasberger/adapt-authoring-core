@@ -1,0 +1,38 @@
+{
+  "_from": "git+https://github.com/taylortom/adapt-authoring-core.git",
+  "_id": "adapt-authoring-core@0.0.1",
+  "_inBundle": false,
+  "_location": "/adapt-authoring-core",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "adapt-authoring-core@git+https://github.com/taylortom/adapt-authoring-core.git",
+    "name": "adapt-authoring-core",
+    "escapedName": "adapt-authoring-core",
+    "rawSpec": "git+https://github.com/taylortom/adapt-authoring-core.git",
+    "saveSpec": "git+https://github.com/taylortom/adapt-authoring-core.git",
+    "fetchSpec": "https://github.com/taylortom/adapt-authoring-core.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/",
+    "/adapt-authoring-helloworld",
+    "/adapt-authoring-logger",
+    "/adapt-authoring-server"
+  ],
+  "_resolved": "git+https://github.com/taylortom/adapt-authoring-core.git#47fcafc5fc3fe02c467c03b7b291af840f48727d",
+  "_spec": "adapt-authoring-core@git+https://github.com/taylortom/adapt-authoring-core.git",
+  "_where": "D:\\AT-Project\\adapt_authoring-rewrite\\tool",
+  "adapt_authoring": {
+    "documentation": {
+      "enable": true,
+      "include": "lib/*"
+    }
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Core module for the Adapt authoring tool",
+  "main": "index.js",
+  "name": "adapt-authoring-core",
+  "version": "0.0.1"
+}
